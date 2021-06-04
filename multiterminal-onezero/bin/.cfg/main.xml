@@ -1,0 +1,7 @@
+<?xml version="1.0"?>
+<ConfigModel xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Symbol>EURUSD</Symbol>
+  <SymbolId>4001</SymbolId>
+  <Lot>1</Lot>
+  <Volume>1000</Volume>
+</ConfigModel>
